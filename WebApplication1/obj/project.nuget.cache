@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c/6714qxBVnwOocqj077bmR3dWm+zl/+7UFfvs5jbIl3EYdPsyUT+2YVO4EDMoKaaaELF/47dC4HsiSPbX0CIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SubhanAllah\\source\\repos\\MyFinalProject\\WebApplication1\\WebApplication1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SubhanAllah\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
